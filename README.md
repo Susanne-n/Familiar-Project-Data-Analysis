@@ -1,4 +1,4 @@
-# Familiar-Project-Data-Analysis-With-Scipy
+# Familiar-Project-Data-Analysis-Scipy
 
 *This project is a part of Codecademy's Data Science Career Path*
 
