@@ -1,4 +1,6 @@
-# Familiar-Project-Data-Analysis
+# Familiar-Project-Data-Analysis-With-Scipy
+
+*This project is a part of Codecademy's Data Science Career Path*
 
 Familiar is a startup in the new market of blood transfusion. Familiar has fallen into some tough times lately, so you’re hoping to help them make some insights about their product and help move the needle (so to speak).
 
